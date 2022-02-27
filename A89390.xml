@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Single songs, and dialogues, in the musical play of Mars &amp; Venus. Perform'd with the Anatomist, or the Sham Doctor. Set to musick by Mr. Finger, and Mr. John Eccles</title>
+            <author>Motteux, Peter Anthony, 1660-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89390</idno>
+            <idno type="STC">Wing M2961</idno>
+            <idno type="STC">ESTC R231123</idno>
+            <idno type="EEBO-CITATION">99896667</idno>
+            <idno type="PROQUEST">99896667</idno>
+            <idno type="VID">132558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89390)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2432:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Single songs, and dialogues, in the musical play of Mars &amp; Venus. Perform'd with the Anatomist, or the Sham Doctor. Set to musick by Mr. Finger, and Mr. John Eccles</title>
+                  <author>Motteux, Peter Anthony, 1660-1718.</author>
+                  <author>Finger, Godfrey, ca. 1660-1730.</author>
+                  <author>Eccles, John, d. 1735.</author>
+               </titleStmt>
+               <extent>[4], 21, [1] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Heptinstall, for the authors, and sold by John Hare musical instrument seller, at the Golden Viol in St. Paul's Church-Yard, and at his shop in Freeman's-Yard in Cornhill. And by John Welch musical instrument-maker in ordinary to his Majesty, at the Golden Harp and Hautboy in Catharine-street against Somerset-house Water-Gate in the Strand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs, English --  17th century.</term>
+               <term>Music --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132558:1"/>
+            <pb facs="tcp:132558:1"/>
+            <p>SINGLE SONGS, AND DIALOGUES, IN The Muſical PLAY OF MARS &amp; VENUS.</p>
+            <p>Perform'd with the <hi>ANATOMIST,</hi> or the <hi>SHAM DOCTOR.</hi>
+            </p>
+            <p>Set to Muſick by Mr. <hi>Finger,</hi> and Mr. <hi>John Eccles.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Heptinſtall,</hi> for the Authors, and Sold by <hi>John Hare</hi> Muſical Inſtrument Seller, at the Golden <hi>Viol</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> and at his Shop in <hi>Freeman</hi>'s<g ref="char:punc">▪</g>
+               <hi>Yard</hi> in <hi>Cornhill.</hi> And by <hi>John Welch</hi> Muſical Inſtrument-maker in Ordinary to His Majeſty, at the Golden <hi>Harp</hi> and <hi>Hautboy</hi> in <hi>Catharine-ſtreet</hi> againſt <hi>Somerſet-houſe Water-Gate</hi> in the <hi>Strand.</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:132558:2"/>
+            <pb facs="tcp:132558:2"/>
+            <head>To the Right Honourable, Sir Robert Howard, Auditor-General of the Exchequer, and one of His Majeſty's moſt Honourable Privy Council. <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>AMong the many Arts and Sciences whoſe Reputation is rais'd by your excellent Performances and generous Encouragement, <hi>Muſick</hi> is particularly oblig'd to pay you a thankful Ac<g ref="char:EOLhyphen"/>knowledgement. As ſuch, we humbly beg leave to lay theſe Muſical Compoſures at your Feet. Were not your condeſcending goodneſs as Famous as your other Vertues, we ſhould not dare approach ſo great a Shrine with ſo ſmall an Offering. But, like Heaven, you ever lov'd to countenance every good Intent, and ſuffer the Zeal and Sincerity of your Votaries to attone for their Imperfections. As you fully graſp at once and with eaſe all the Valuable Qualifications of which others are proud tho' they but ſingly and ſuperficially poſſeſs them, ſo with a larger Capa<g ref="char:EOLhyphen"/>city of Soul you exert your diffuſive Generoſity in a more ample manner; and while your whole Time ſeems engroſs'd by the moſt ſerious and impor<g ref="char:EOLhyphen"/>tant Affairs, to prop the State and Vindicate Reaſon and Liberty, by your Councels, by your incomparable Pen, and your exemplary Zeal and Reſo<g ref="char:EOLhyphen"/>lution, even then you ſtill redeem ſome Moments to ſupport the Drooping Muſes. Your very Recreations are but a Change of Study, and more be<g ref="char:EOLhyphen"/>neficial to your Country than the labour'd Endeavours of others. We ſee in the Productions of your Mind all the ſprightly Vigour of Youth with the profound Judgment of a Riper Age; all the Felicity of Nature with all the Graces and Delicacies of Art. Thoſe three Charming Siſters, <hi>Muſick, Painting</hi> and <hi>Poetry</hi> have ſtrove to out-rival one another in be<g ref="char:EOLhyphen"/>ſtowing their utmoſt Favours on you, but you have ſo highly oblig'd them, that, tho' they are Goddeſſes, 'tis not in their Power to oblige you equally. Thus the Greateſt, as well as we, muſt deſpair of expreſſing, as they ought, the Reſpect they have for your ineſtimable Worth: But, were our Power an<g ref="char:EOLhyphen"/>ſwerable to our Deſires, none wou'd be more ambitious of diſcharging the mighty Debt due from all Lovers of the Muſes to you, than,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your moſt Humble and Obedient Servants,
+<list>
+                     <item>Godfrey Finger,</item>
+                     <item>John Eccles.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="song_collection">
+            <pb facs="tcp:132558:3"/>
+            <pb n="1" facs="tcp:132558:3"/>
+            <head>PROLOGUE.</head>
+            <div type="song">
+               <byline>The firſt Song Sung by Mrs. <hi>Hudſon.</hi>
+               </byline>
+               <byline>Sett by Mr. <hi>Finger.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>COme all, come all, come all, come all with mo╌ving Songs prepare to Char╌m the Witty and the Fair; ye Trum╌pets ſoft╌ly breath, or ceaſe, ceaſe, ceaſe, ceaſe, Love may in <hi>Britain</hi> raiſ╌e a Warr, a Warr, but 'twill be ſweeter far than Peace, but 'twill be ſweeter far than Peace.</p>
+            </div>
+            <div type="song">
+               <pb n="2" facs="tcp:132558:4"/>
+               <byline>Sung by Mrs. <hi>Ayloffe.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>LOve a╌lone can here a╌larm us, and he on╌ly ſtrikes to Charm us; gazing, liking, and ad╌miring, firing, pan╌ting, and de╌ſiring, fearing, daring, trying, flying, feigning, preſſing, faint de╌nying, ſtill re╌viving fierce delights, this is Love, and theſe his fights, ſtill re╌viving fierce delights, this is Love, and theſe his fights.</p>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Eager Kiſſes, Fiery glances,</l>
+                  <l>Balmy Bliſſes, melting trances;</l>
+                  <l>Kind complying, kinder denying,</l>
+                  <l>Happy days, and happier nights,</l>
+                  <l>Sill reviving fierce delights,</l>
+                  <l>This is Love, and theſe his fights.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb n="3" facs="tcp:132558:4"/>
+               <head>A Song in Three parts.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>War ſheds Blood and Love ſheds Tears, War has Swords, LOve like War has no╌ble cares, War ſheds Blood and Love ſheds Tears, War has Swords, and Love has Darts, War takes Towns, and Love takes Hearts: Love like War has and Love has Darts, War takes Towns, and Love takes Hearts: Love like War has flames and fires, Love like War the bold requires, Love like War does Art ad╌mit, flames and fires, Love like War the bold requires, Love like War does Art ad╌mit, Love like War for Youth is fit. Love like War for Youth is fit.</p>
+            </div>
+            <div type="song">
+               <pb n="4" facs="tcp:132558:5"/>
+               <byline>Sung by Mrs. <hi>Hudſon.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>SCorn tho' Beauty frowns to tremble, Lovers bold╌ly urge your flame, for a Wo╌man will diſ╌ſem╌ble, loves the joy but hates the name; Her re╌fuſing your per╌ſu╌ing, yeilds a╌like a pleaſing pleaſ╌ing pain, ever cu╌ring and re╌newing, ſoon, ſoon, ſoon appeas'd, ſoon, ſoon, ſoon appeas'd to burn a╌gain, ſoon appeas'd to burn a╌gain.</p>
+            </div>
+            <div type="song">
+               <pb n="5" facs="tcp:132558:5"/>
+               <byline>Sung by Mrs. <hi>Ayloffe.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>TO dou╌ble the ſports, to <hi>Tha╌li╌a</hi> be╌longs, I'le joyn, comick Scenes to your A╌mo╌rous Songs; To heighten Life's pleaſures, to ſoften its cares, no Cha╌rm like a Farce, no Phy╌ſicians like Plays.</p>
+            </div>
+            <div type="song">
+               <byline>Sung by Mrs. <hi>Ayloffe</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>TO tre╌ble the pleaſures with re╌gu╌lar meaſures, my Train ſhall ad╌van╌ce;
+<pb n="6" facs="tcp:132558:6"/> Some joyn in a Chorus, while gay╌ly be╌fore us ſome joy╌n in a Dance.</p>
+               <lg>
+                  <head>Grand Chorus.</head>
+                  <l>Let Scenes of mirth and love,</l>
+                  <l>With Songs and Dances joyning,</l>
+                  <l>The fleeting hours improve,</l>
+                  <l>And baniſh dull repining;</l>
+                  <l>He who thoſe Joys refuſes,</l>
+                  <l>When kindly they invite,</l>
+                  <l>The end of Living loſes,</l>
+                  <l>Life's buſineſs is Delight.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>(1 Act.)</head>
+               <byline>Firſt Song Sung by Mrs. <hi>Hudſon.</hi>
+               </byline>
+               <byline>Sett by Mr. <hi>John Eccles.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>TO meet her <hi>Mars</hi> the Queen of Love comes here, adorn'd with all her Charms; The Warriour beſt rhe Fair can move, and crowns his toiles in Beauty's arms, the Warriour beſt rhe Fair can move, and crowns his toiles in Beauty's armes.</p>
+               <sp>
+                  <pb n="7" facs="tcp:132558:6"/>
+                  <speaker>Venus.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>FLy, fly ye la╌zy hours, haſt bring him here, ſwift, ſwift as my fond wiſhes are. are. When we love, and love to rage, ev'ry moment ſeems an age; when we love, and love to rage, ev╌'ry moment ſeems an age.</p>
+               </sp>
+               <sp>
+                  <speaker>Cupid.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>BEau╌ty's Goddeſs ceaſe to mourn, ſoon to your Arms from Wars a╌larms, your He╌ro will re╌turn.╌turn.
+<pb facs="tcp:132558:7"/> Your grief will then be loſt in Kiſſes, mel╌ting, mel╌ting, mel╌ting Bliſſes, you ſhall La╌ugh, ſhall laugh, and free╌ly toy, as gloomy Night adds Charms to light, ſo ab╌ſence to your Joy.</p>
+               </sp>
+               <sp>
+                  <speaker>CUPID.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>THere the kind╌eſt Husbands are, and the kind╌eſt heart╌ed Fair; each in <hi>Hy╌mens</hi> bonds is free, and when Wives with Lo╌vers go,
+<pb n="9" facs="tcp:132558:7"/> Cuckolds, not to diſ╌a╌gree, thank the men who make'em ſo.</p>
+               </sp>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Others fond of Roving Lives,</l>
+                  <l>Love all Women but their Wives:</l>
+                  <l>Painted Beautys there abound,</l>
+                  <l>Nay ſome Men are Painted too;</l>
+                  <l>Crowds are in the Temples found,</l>
+                  <l>But come moſt to Worſhip you.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>A Dialogue between <hi>Vulcan</hi> and <hi>Venus.</hi>
+               </head>
+               <byline>Sett by Mr. <hi>John Eccles.</hi>
+               </byline>
+               <sp>
+                  <speaker>Vulcan.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>THou plague of my life, thou plague of my life, thou Devil, thou Devil, thou Devil, thou Wife; come tell me, come tell me, why did you Dreſs, why did you Dreſs ſo like a Crack? you know, you know you know I forbad you, why d'ye Patch thus, and Prink? what? you're Painted I think! why this Head ſix Foot high? Blood and Fire, who am I? who
+<pb n="10" facs="tcp:132558:8"/> am I, who am I, who am I.</p>
+               </sp>
+               <sp>
+                  <speaker>Venus.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>My Fool, for what elſe can that properly be, that's ug╌ly and old, and ill natur'd like thee, I'll dreſs when I pleaſe, nay I'll Cuckold thee too, what elſe have young Wives with ſuch Husbands to doe?</p>
+               </sp>
+               <sp>
+                  <speaker>Vulcan.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>If ever you dare, If ever you dare, I'll make the world know what a Strumpet you are.</p>
+               </sp>
+               <sp>
+                  <speaker>Venus.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Nay what do I care, nay what do I care, you'll make the world know what a Cuckold you are.</p>
+               </sp>
+               <sp>
+                  <pb n="11" facs="tcp:132558:8"/>
+                  <speaker>Both together Scolding.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>You'll make the world know, you'll make the world know, you'll make the world I'll make the world know, I'll make the world know, I'll make the world know, I'll know what a Cuckold, a Cuckold, a Cuckold you are; you'll make the world make the world know what a Strumpet, a Strumpet you are, I'll know, you'll make the world know, you'll make the world know what a Cuckold you are. make the world know, I'll make the world know what a Strumpet, a Strumpet you are.</p>
+               </sp>
+               <sp>
+                  <speaker>Venus.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Thus at leaſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Vulcan.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Joyn and curſe the tye with me, that confines us to one Bed,
+<pb n="12" facs="tcp:132558:9"/> thus at leaſt we'll once a╌gree, curs'd be he, curs'd be he that made us Wed, curs'd be he, Curs'd, curs'd be curs'd be he, curs'd be he that made us Wed, curs'd be he, curs'd be he, curs'd be he, curs'd be he, curs'd be he that made, that made us Wed, curs'd be he, curs'd be he, curs'd be he that he that made us Wed, thus at leaſt we'll once agree, curs'd be he that made us made, that made us Wed, thus at leaſt we'll once agree, curs'd be he that made us Wed; curs'd be he, curs'd be he, curs'd be he that made us Wed. Wed; curs'd, curs'd be he, curs'd be he that made, that made us Wed.</p>
+               </sp>
+            </div>
+            <div type="song">
+               <pb facs="tcp:132558:9"/>
+               <head>(2 Act.)</head>
+               <head>
+                  <hi>Venus</hi> running in to <hi>Mars</hi>'s Arms.</head>
+               <byline>Sett by Mr. <hi>John Eccles.</hi>
+               </byline>
+               <sp>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>MY <hi>Mars,</hi> oh! oh! oh my <hi>Mars,</hi> oh my <hi>Mars,</hi> my dear╌eſt, deareſt Love, my Joy, my Soul, my all, my all, oh my deareſt, deareſt <hi>Mars.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>My <hi>Venus,</hi> oh! oh! oh my <hi>Venus,</hi> oh my <hi>Venus,</hi> my deareſt Love, my Life, my Heav'n, my all, my all, my deareſt, deareſt <hi>Venus.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <stage>Trumpet.</stage>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>COme all ye Loves clap, clap ev'ry Wing; come all ye Loves, clap, clap ev╌'ry Wing; <hi>I╌o</hi> Triumphe!
+<pb facs="tcp:132558:10"/> 
+                     <hi>I╌o</hi> Triumphe! <hi>I╌o</hi> Triumphe, Tri╌umphe, Tri╌umphe, dance, dance, dance and ſing! <hi>I╌o</hi> Triumphe! <hi>I╌o</hi> Triumphe! <hi>I╌o</hi> Triumphe, Triumphe, dance, dance, dance and
+<pb facs="tcp:132558:10"/> ſing, Triumphe, Trium╌phe dance, dance, dance and ſing.</p>
+               </sp>
+            </div>
+            <div type="song">
+               <head>A Dialogue between <hi>Mars</hi> and <hi>Venus.</hi>
+               </head>
+               <byline>Sett by Mr. <hi>John Eccles.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>How ſweet, how ſweet, how lovely, when re╌turn'd; how ſweet, how lovely, how lovely when re╌turn'd is the dea — ╌turn'd; how lovely, how ſweet, how lovely when return'd, is the dea╌r, is the
+<pb facs="tcp:132558:11"/> ╌r, is the dear, dear ob╌je╌ct, is the dear, is the dear, dear dear, dear ob╌je╌ct, is the dear, dear object, is the dear, the dear, dear object whom we mourn'd; recruit-ed fires more fiercely warm, and abſence heigh╌object whom we mourn'd; re-cruited fires more fiercely, fiercely warm, and abſence ╌tens, height-ens heightens ev'ry, ev'ry Charm, the Bleſſing that a while heightens, heightens ev'ry, ev'ry Charm, the Bleſſing that a while was loſt, when 'tis regain'd, is valu'd, va╌lu'd moſt; my dear, my dear, my was loſt, when 'tis regain'd, is valu'd, va╌lu'd moſt; my dear, my dear, my
+<pb facs="tcp:132558:11"/> Life, my Joy, my Soul, my Heav'n, my Love, oh! my deareſt, deareſt <hi>Mars.</hi> Life, my Joy, my Soul, my Heav'n, my Love, oh! my deareſt, deareſt Love.</p>
+            </div>
+            <div type="song">
+               <head>Songs in the <hi>3d.</hi> Act,</head>
+               <byline>Sett by Mr. <hi>Finger.</hi>
+               </byline>
+               <byline>And Sung by Mrs. <hi>Hudſon.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>SEe <hi>Vulcan,</hi> Jealouſie, Jea╌louſie ap╌pears, tho' not to eaſe but raiſ╌e thy cares, ſtill reſtleſs round the world I ru╌n, to Rack the wretched Lovers mind, I watch and journey with the Sun, to ſearch for what
+<pb facs="tcp:132558:12"/> I dread to find, thence ſlid╌ing on a Beam, my Eye ſaw <hi>Mars</hi> with <hi>Venus</hi> looſe-ly toy, ſaw <hi>Mars</hi> with <hi>Venus</hi> looſely toy.</p>
+            </div>
+            <div type="song">
+               <head>A Dialogue between Mrs. <hi>Bracegirdle</hi> and Mr. <hi>Bowman.</hi>
+               </head>
+               <sp>
+                  <speaker>She.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>NO, no, no, no,</p>
+               </sp>
+               <sp>
+                  <speaker>HE.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Yield, yield</p>
+               </sp>
+               <sp>
+                  <speaker>HE.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>My dear, my dear, dear, let full poſſeſſing crown my Love, crown my Love and Charm my Senſe;</p>
+               </sp>
+               <sp>
+                  <speaker>She.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>No I muſt oppoſe your preſſing with as gallant a defence,</p>
+               </sp>
+               <sp>
+                  <pb n="19" facs="tcp:132558:12"/>
+                  <speaker>He.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>When Love's Harveſt ſhou'd be reaping, will you waſt the time, in doubt;</p>
+               </sp>
+               <sp>
+                  <speaker>She.</speaker>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Ev'ry Town that's worth the keeping, keeps a while th'╌in╌va╌der out; Cheap Em╌bra╌ces quickly cloy, Ea╌ſy Conqueſt ſeems a toy, but de╌ny╌ing, ſtruggling, flying, wanton playing, wiſe de╌lay╌ing, rai╌ſe us to a Sen╌ſe of Joy.</p>
+                  <pb facs="tcp:132558:13"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Love's a Hawk and ſtoops a╌pace, we Love's a Hawk and ſtoops a╌pace, Love's a Hawk and ſtoops a╌pace, we all, all, all, all hurry for the Quarry, we all, all, all, all hurry all, all, all, all hurry for the Quarry, we all, all, all, all hurry for the Quarry, tho' the ſport, tho' the ſport ends with the Chaſe, for the Quarry, tho' the ſport ends with the Chaſe, ends with the Chaſe, tho' the ſport, tho' the ſport ends with the Chaſe. tho' the ſport ends with the Chaſe, ends with the Chaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Cupid.</speaker>
+                  <pb facs="tcp:132558:13"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>THus all un╌e╌qual Unions break, thus <hi>Hymen</hi> without Love is weak; but I'le Ex ert my pow'r a╌new, make <hi>Vulcan</hi> kind, and <hi>Ve╌nus</hi> true; her gra╌ti╌tude ſhall thus im╌prove, and Friendſhip ſhall re╌ſem╌ble Love; where <hi>Hymen</hi> wov╌e un╌e╌qual Tyes,
+<pb facs="tcp:132558:14"/> Lov╌e to no high╌er pitch can raiſe.</p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132558:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
